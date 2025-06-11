@@ -1,2 +1,2 @@
-# bosseyes
-Boss Eyes software for inventory
+# PearAPP
+PearAPP software for inventory
